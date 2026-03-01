@@ -99,6 +99,6 @@ A hardware-implemented vending machine controller built in VHDL and deployed on 
 ## 👤 Author
 
 **Baitong Dong**  
-McMaster University — Electrical and Computer Engineering
+McMaster University — Electrical and Computer Engineering  
 Cape Breton University — Electronic and Control Engineering Technology  
 [LinkedIn](https://linkedin.com/in/baitong-dong) | baitong3@icloud.com
