@@ -81,7 +81,7 @@ A hardware-implemented vending machine controller built in VHDL and deployed on 
 - **Language**: VHDL
 - **Synthesis & Implementation**: Xilinx Vivado
 - **Target FPGA**: Xilinx Artix-7 (XC7A35T) on a Digilent Basys 3 development board
-- **Verification**: Behavioral simulation + hardware-in-the-loop testing
+- **Verification**: Behavioral simulation via VHDL testbench
 
 ---
 
